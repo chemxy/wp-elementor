@@ -1,0 +1,4 @@
+[23-Feb-2025 04:14:17 UTC] PHP Warning:  Undefined array key "prompt" in /var/www/html/wp-content/plugins/elementor/modules/ai/module.php on line 1129
+[23-Feb-2025 04:59:12 UTC] PHP Warning:  Attempt to read property "title" on null in /var/www/html/wp-includes/class-wp-customize-widgets.php on line 923
+[23-Feb-2025 19:19:24 UTC] PHP Warning:  Attempt to read property "title" on null in /var/www/html/wp-includes/class-wp-customize-widgets.php on line 923
+[23-Feb-2025 19:19:32 UTC] PHP Warning:  Attempt to read property "title" on null in /var/www/html/wp-includes/class-wp-customize-widgets.php on line 923
